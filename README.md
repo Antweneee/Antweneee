@@ -12,7 +12,7 @@
   Hi, I'm Antoine Gavira Bottari, Fullstack Developer & Software Developer from France
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Master's degree at EPITECH Paris in Information Technology and Software Engineering
+  👨‍🎓 I'm currently studying for a Master's degree at EPITECH Paris in Information Technology and Software Engineering and interning at Thales LAS as a Devops Engineer
   <br>
   💻 I love Writing code in general, discover new technology, learning new things and challenge myself 🤓
   <br>
