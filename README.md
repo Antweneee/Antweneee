@@ -9,10 +9,12 @@
    
 ###  <img src="./images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Antoine Gavira Bottari, Fullstack Developer & Software Developer from France
+  Hi, I'm Antoine Gavira Bottari, Devops Engineer, Fullstack Developer & Software Developer from France
+  <br>
+  I speak French and English fluently
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Master's degree at EPITECH Paris in Information Technology and Software Engineering
+  👨‍🎓 I'm currently done with my Master's degree at EPITECH Paris in Information Technology and Software Engineering
   <br>
   💻 I love Writing code in general, discover new technology, learning new things and challenge myself 🤓
   <br>
@@ -26,7 +28,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=py,flask,mysql,mongo,sqlite,postgres,php,html,css,js,ts,nodejs,express,react,nestjs,golang,ipfs,cs,c,cpp,dart,flutter,md,git,github,gitlab,vscode,docker,postman,netlify,vercel,linux,bash,haskell&perline=12"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=linux,py,flask,mysql,mongo,sqlite,postgres,php,html,css,js,ts,nodejs,express,react,nestjs,prisma,golang,ipfs,cs,c,cpp,java,jest,dart,flutter,md,git,github,gitlab,vscode,docker,postman,netlify,vercel,linux,bash,haskell,jenkins,grafana,prometheus,redhat&perline=12"  />
 </p>
 
 
