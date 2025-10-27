@@ -6,16 +6,14 @@
    
 #  <img src="./images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 
-<p>
-  Hi, I'm Antoine Gavira Bottari, Devops Engineer, Fullstack Developer & Software Developer from France
-  <br>
-  I speak French and English fluently
-  <br>
-  <br>
-  👨‍🎓 I'm currently done with my <strong>Master's degree at EPITECH Paris in Information Technology and Software Engineering<strong/>
-  <br>
-  💻 I love Writing code in general, discover new technology, learning new things and challenge myself 🤓
-  <br>
+Hi, I'm Antoine Gavira Bottari, Devops Engineer, Fullstack Developer & Software Developer from France
+<br>
+I speak French and English fluently
+<br>
+<br>
+👨‍🎓 I'm currently done with my **Master's degree at EPITECH Paris in Information Technology and Software Engineering**
+<br>
+💻 I love Writing code in general, discover new technology, learning new things and challenge myself 🤓
 <img src="./images/separator.svg" width="100%" />
 
 
@@ -30,7 +28,7 @@
 # Some of my projects
 
 ## 💪🏼 StepForward (In progress)
-<a href="https://github.com/orgs/Step-Forward-Orga/repositories">This project</a> as for goal to create an app Strava but for Gym enjoyers. <br> Tired of using excel sheets or notes on your phone to track your progress and organize your programs ? <br><br>
+<a href="https://github.com/orgs/Step-Forward-Orga/repositories">This project</a> as for goal to create a app Strava like but for Gym enjoyers. <br> Tired of using excel sheets or notes on your phone to track your progress and organize your programs ? <br><br>
 This app will replace what you use currently for planning, training plans, workouts, aimed reps and weights everything will be possible with StepForward <br> Available soon..<br><br>
 This project use Nest js and prisma as a backend, the backend is fully dockerized, github workflow are set on the project, unit test and e2e test to come.
 I also want to setup a proper Jenkins pipeline with some monitoring as well.<br><br>
@@ -41,7 +39,7 @@ I also want to setup a proper Jenkins pipeline with some monitoring as well.<br>
 ## 📖 Anthologia Newspaper
 
 <a href="https://github.com/orgs/Anthologia-Newspaper/repositories">This project</a> was an end of study project at Epitech and had for goal to make journalism uncensorable.<br/><br/>
-By creating an app notion like, we where than able to pin the articles on IPFS making them than uncensorable because of how IPFS work.<br><br/>
+By creating an app notion like, we where able to pin the articles on IPFS making them than uncensorable because of how IPFS work.<br><br/>
 With a fully dockerized app, a solid nest js backend, an app hosted with GCP we managed to achieve the desired behavior.<br><br>
 <img width="600px"  src="https://skillicons.dev/icons?i=go,js,ts,nestjs,prisma,github,docker,ipfs,gcp&perline=12"  />
 
